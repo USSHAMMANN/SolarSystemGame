@@ -1,0 +1,35 @@
+[
+    {
+        "biome_name": "Forest",
+        "biome_char": "F",
+        "biome_habitability": 0.8,
+        "biome_min_height": 100.0,
+        "biome_max_height": 2000.0,
+        "biome_min_temp": -5.0,
+        "biome_max_temp": 30.0,
+        "biome_min_precipitation": 500.0,
+        "biome_max_precipitation": 2000.0
+    },
+    {
+        "biome_name": "Snowy mountains",
+        "biome_char": "S",
+        "biome_habitability": 0.8,
+        "biome_min_height": 1000.0,
+        "biome_max_height": 2000.0,
+        "biome_min_temp": -25.0,
+        "biome_max_temp": 5.0,
+        "biome_min_precipitation": 500.0,
+        "biome_max_precipitation": 1200.0
+    },
+    {
+        "biome_name": "Desert",
+        "biome_char": "D",
+        "biome_habitability": 0.2,
+        "biome_min_height": 0.0,
+        "biome_max_height": 1000.0,
+        "biome_min_temp": 20.0,
+        "biome_max_temp": 50.0,
+        "biome_min_precipitation": 0.0,
+        "biome_max_precipitation": 250.0
+    }
+]
