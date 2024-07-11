@@ -1,15 +1,4 @@
 '''
-параметры настройки биомов планеты
-
-temper = "температура зоны"
-located = "относительное нахождение зоны"
-rainfall = "влажность зоны"
-
-параметры карты планеты
-
-planet_seed = "Сид планеты"
-planet_type = "Вид планеты"
-planet_type_like = "тип планеты"
 
 planet_type_list = [earthLike,desertLike,waterLike,gasLike]
 '''
